@@ -4,21 +4,14 @@
         <description><![CDATA[This is Regina]]></description>
         <link>http://thisisregina.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 22:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2015 22:54:38 GMT</lastBuildDate>
         <atom:link href="http://thisisregina.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>http://thisisregina.com/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">e459ea88-47d2-4d6e-8421-efd4abbbe1f1</guid>
-            <pubDate>Sat, 21 Nov 2015 21:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Buildings_in_Downtown_Regina_as_seen_from_Victoria_Park.jpg">]]></description>
-            <link>http://thisisregina.com/289dfcdf-c7f5-41c3-a433-4076e6973fda/index.html</link>
+            <title><![CDATA[Downtown Regina]]></title>
+            <description><![CDATA[<article><h1>Downtown Regina</h1><p>From Victoria Park</p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Buildings_in_Downtown_Regina_as_seen_from_Victoria_Park.jpg"></article>]]></description>
+            <link>https://upload.wikimedia.org/wikipedia/commons/b/bb/Buildings_in_Downtown_Regina_as_seen_from_Victoria_Park.jpg</link>
             <guid isPermaLink="false">289dfcdf-c7f5-41c3-a433-4076e6973fda</guid>
-            <pubDate>Sat, 21 Nov 2015 21:08:53 GMT</pubDate>
+            <pubDate>Sat, 21 Nov 2015 22:54:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
