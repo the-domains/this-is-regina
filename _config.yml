@@ -1,7 +1,7 @@
 name: This is Regina
 favicon: null
-layout_spectrum: 0.74994
-typography_spectrum: 0.6434727162122726
+layout_spectrum: 1
+typography_spectrum: 0.26017
 title: This is Regina
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#110d0a'
     - '#4b504c'
     - '#c6b26e'
-  brandStrength: 0.6875
+  brandStrength: 0
   lightness: 0.9815509791951627
-  saturation: 0.12993802083656192
+  saturation: 0.5
   rhythmicContrast: 0.9708276332821697
 purpose: []
