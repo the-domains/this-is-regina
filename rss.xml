@@ -4,8 +4,15 @@
         <description><![CDATA[This is Regina]]></description>
         <link>https://thegrid.ai/this-is-regina/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 21:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2015 21:36:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/this-is-regina/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/this-is-regina/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">e459ea88-47d2-4d6e-8421-efd4abbbe1f1</guid>
+            <pubDate>Sat, 21 Nov 2015 21:36:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Grid Post]]></title>
             <description><![CDATA[<h1>A Grid Post</h1>]]></description>
