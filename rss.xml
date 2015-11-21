@@ -2,42 +2,35 @@
     <channel>
         <title><![CDATA[This is Regina]]></title>
         <description><![CDATA[This is Regina]]></description>
-        <link>https://thegrid.ai/this-is-regina/</link>
+        <link>http://thisisregina.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 21:52:21 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/this-is-regina/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9afd1a7d-fa9f-4147-8c88-fd85ffca986e.jpg">]]></description>
-            <link>https://thegrid.ai/this-is-regina/8e047a7c-f2d5-4cb6-a551-afb252f2125a/index.html</link>
-            <guid isPermaLink="false">8e047a7c-f2d5-4cb6-a551-afb252f2125a</guid>
-            <pubDate>Sat, 21 Nov 2015 21:51:51 GMT</pubDate>
-        </item>
+        <lastBuildDate>Sat, 21 Nov 2015 22:35:47 GMT</lastBuildDate>
+        <atom:link href="http://thisisregina.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/this-is-regina/getting-started-on-the-grid/index.html</link>
+            <link>http://thisisregina.com/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">e459ea88-47d2-4d6e-8421-efd4abbbe1f1</guid>
             <pubDate>Sat, 21 Nov 2015 21:36:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Grid Post]]></title>
             <description><![CDATA[<article><h1>A Grid Post</h1><p>TheGrid has Arrived... Now what?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26f5e05d-a320-4253-b57e-a7ed54b0707d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/this-is-regina/a-grid-post/index.html</link>
+            <link>http://thisisregina.com/a-grid-post/index.html</link>
             <guid isPermaLink="false">206e6f63-d0fe-494c-8f92-f3563efbc799</guid>
             <pubDate>Sat, 21 Nov 2015 21:47:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DevFacto Regina (above O'Hanlon's and the Copper Kettle)]]></title>
             <description><![CDATA[<article><h1>DevFacto Regina (above O'Hanlon's and the Copper Kettle)</h1><p>The offices of DevFacto Regina, the Rockin'est SharePoint, O365, Cloud and Mobile Experts on the planet!</p><img src="http://media-cdn.tripadvisor.com/media/photo-s/03/2f/01/3b/o-hanlon-s-pub.jpg"></article>]]></description>
-            <link>https://thegrid.ai/this-is-regina/devfacto-regina-above-ohanlons-and-the-copper-kettle/index.html</link>
+            <link>http://thisisregina.com/devfacto-regina-above-ohanlons-and-the-copper-kettle/index.html</link>
             <guid isPermaLink="false">10357578-fa5b-4c9b-8941-adc20ced5c21</guid>
             <pubDate>Sat, 21 Nov 2015 21:28:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Buildings_in_Downtown_Regina_as_seen_from_Victoria_Park.jpg">]]></description>
-            <link>https://thegrid.ai/this-is-regina/289dfcdf-c7f5-41c3-a433-4076e6973fda/index.html</link>
+            <link>http://thisisregina.com/289dfcdf-c7f5-41c3-a433-4076e6973fda/index.html</link>
             <guid isPermaLink="false">289dfcdf-c7f5-41c3-a433-4076e6973fda</guid>
             <pubDate>Sat, 21 Nov 2015 21:08:53 GMT</pubDate>
         </item>
