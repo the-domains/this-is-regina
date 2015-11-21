@@ -4,7 +4,7 @@
         <description><![CDATA[This is Regina]]></description>
         <link>http://thisisregina.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 22:35:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2015 22:36:02 GMT</lastBuildDate>
         <atom:link href="http://thisisregina.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
@@ -12,13 +12,6 @@
             <link>http://thisisregina.com/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">e459ea88-47d2-4d6e-8421-efd4abbbe1f1</guid>
             <pubDate>Sat, 21 Nov 2015 21:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Grid Post]]></title>
-            <description><![CDATA[<article><h1>A Grid Post</h1><p>TheGrid has Arrived... Now what?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26f5e05d-a320-4253-b57e-a7ed54b0707d.jpg"></article>]]></description>
-            <link>http://thisisregina.com/a-grid-post/index.html</link>
-            <guid isPermaLink="false">206e6f63-d0fe-494c-8f92-f3563efbc799</guid>
-            <pubDate>Sat, 21 Nov 2015 21:47:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DevFacto Regina (above O'Hanlon's and the Copper Kettle)]]></title>
