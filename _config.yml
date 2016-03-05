@@ -1,5 +1,8 @@
+name: This is Regina
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.50219
 title: This is Regina
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.03617021
-  brandStrength: 0.5
-  lightness: 1
   brandColors:
     - '#f3f1f1'
     - '#333331'
     - '#83b7e2'
     - '#a51115'
     - '#34a41c'
-  rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: This is Regina
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.26017
-layout_spectrum: 0.24534
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
